@@ -1,1 +1,2 @@
-# lamz
+# alam
+Javascript
